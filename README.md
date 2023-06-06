@@ -1,5 +1,5 @@
 # Whiteboard
-A whiteboard that allows multiple users to collaborate in real-time through sockets.
+A whiteboard application that allows multiple users to collaborate in real-time through sockets.
 
 ## Features
 - Create shapes, lines or erase
